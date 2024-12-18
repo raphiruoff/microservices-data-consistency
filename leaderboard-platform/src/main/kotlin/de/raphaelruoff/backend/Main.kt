@@ -1,4 +1,4 @@
-package de.raphaelruoff.microservice.microservic_data_consistency
+package de.raphaelruoff.backend.profilemanagment
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
